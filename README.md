@@ -30,7 +30,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- (https://getbootstrap.com/docs/5.1/getting-started/introduction/) - Bootstrap v5.1
+- [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/) - Bootstrap v5.1
 
 ## Author
 
