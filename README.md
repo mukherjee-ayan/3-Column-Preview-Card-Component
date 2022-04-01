@@ -7,9 +7,9 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [Overview](#overview)
   - screenshot
   - links
-- my-process
+- [My Process](#my-process)
   - built-with
-- author
+- [Author](#author)
 
 
 ## Overview
