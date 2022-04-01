@@ -34,5 +34,5 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Author
 
-- LinkedIn - Ayan Mukherjee - https://www.linkedin.com/in/m-ayan
+- [Ayan Mukherjee](https://www.linkedin.com/in/m-ayan)
 
