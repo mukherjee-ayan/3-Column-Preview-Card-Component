@@ -4,7 +4,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Table of contents
 
-- overview
+- [Overview](#overview)
   - screenshot
   - links
 - my-process
